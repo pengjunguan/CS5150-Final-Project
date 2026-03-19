@@ -3,9 +3,9 @@
 /workspace.xml
 # Rider ignored files
 /projectSettingsUpdater.xml
-/contentModel.xml
-/.idea.Final_Project.iml
 /modules.xml
+/contentModel.xml
+/.idea.ScoreFrenzy.iml
 # Ignored default folder with query files
 /queries/
 # Datasource local storage ignored files
